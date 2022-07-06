@@ -1,16 +1,33 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
- * add - add 2 numbers
+ * print_to_98 - print numbers to 98
  *
- * @a: firsts number
- * @b: second number
+ * @n: the starting number
  *
- * Return: returns sum of first and second number
+ * Return: 0 for success
  */
-int add(int a, int b)
+void print_to_98(int n)
 {
-	int sum = a + b;
-
-	return (sum);
+        if (n < 98)
+	{
+		while (n < 98)
+		{
+			printf("%d, ", n);
+			n++;
+		}
+		printf("%d\n", n);
+	}
+	else if (n > 98)
+	{
+		while (n > 98)
+		{
+			printf("%d, ", n);
+			n--;
+		}
+		printf("%d\n", n);
+	}
+	else
+		printf("%d\n", n);
 }
