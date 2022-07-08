@@ -1,14 +1,14 @@
 /*
- *  * File: 10-print_triangle.c
- *   * Auth: Brennan D Baraban
- *    */
+ * File: 10-print_triangle.c
+ * Auth: Brennan D Baraban
+ */
 
 #include "main.h"
 
 /**
- *  * print_triangle - Prints a triangle, using the character #.
- *   * @size: The size of the triangle.
- *    */
+ * print_triangle - Prints a triangle, using the character #.
+ * @size: The size of the triangle.
+ */
 void print_triangle(int size)
 {
 	int hash, index;
