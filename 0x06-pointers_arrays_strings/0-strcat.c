@@ -10,18 +10,16 @@
  */
 char *_strcat(char *dest, char *src)
 {
-	int dest_length = 0;
-	int src_length = 0;
-	int i, j, k;
+	char *point;
+	int length;
 
-	for (i = 0; dest != '\0'; i++)
-		dest_length++;
-	for (j = 0; src != '\0'; j++)
-		src_length++;
-	for (k = 0; k <= src_length; k++)
+	for (length = 0; dest[length] != '\0'; length++)
+		;
+	point = dest + length;
+	while (*src != '\0')
 	{
-		dest[dest_length + k] = src[k];
+		*point++ = *src++;
 	}
-
+	*point = '\0';
 	return (dest);
 }
