@@ -1,2048 +1,0 @@
-!<arch>
-/               1538856267  0     0     0       247       `
-	  :  _memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :toi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-        :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uà	f  
-sdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uàª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    1               a       4                                      !<arch>
-/               1538856266  0             1-memcpy.c _memcpy                           1-strncat.o/    1538856257  1000  1000  100664  1376      `ELFsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uàsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uà
-	  :  f  ª  >         !    A†C
-trncat.c _strncat                         2-strchr.o/     1538856257  1000  1000  100664  1320      `ELF        1-memcpy.c _memcpy                           1-strncat.o/    1538856257  1000  1000  100664  1376      `ELFsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uàsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-trchr.c _strchr                           2-strlen.o/     1538856257  1000  1000  100664  1280      `ELFtrncat.c _strncat                         2-strchr.o/     1538856257  1000  1000  100664  1320      `ELF        1-memcpy.c _memcpy                           1-strncat.o/    1538856257  1000  1000  100664  1376      `ELFsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-        :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uàsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
-	 UH‰åH‰}èH‰uà	>         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uà\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856266  0     0     1       248       `
-	  :  f  
-trncpy.c _strncpy                         3-islower.o/    1538856258  1000  1000  100664  1264      `ELFtrchr.c _strchr                           2-strlen.o/     1538856257  1000  1000  100664  1280      `ELFtrncat.c _strncat                         2-strchr.o/     1538856257  1000  1000  100664  1320      `ELF        1-memcpy.c _memcpy                           1-strncat.o/    1538856257  1000  1000  100664  1376      `ELFsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-        :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uàsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uà	>         !ª    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-	/               1538856270  0     1     0   ª    247       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uàf  
-	trcat.c _strcat                           103-atoi.o/        3-strcmp.c _strcmp                           3-strspn.o/     1538856258  1000  1000  100664  1368      `ELFtrncpy.c _strncpy                         3-islower.o/    1538856258  1000  1000  100664  1264      `ELFtrchr.c _strchr                           2-strlen.o/     1538856257  1000  1000  100664  1280      `ELFtrncat.c _strncat                         2-strchr.o/     1538856257  1000  1000  100664  1320      `ELF        1-memcpy.c _memcpy                           1-strncat.o/    1538856257  1000  1000  100664  1376      `ELFsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-      :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uàsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  F  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uà	153886259  1000  1001  100664  1360      `ELF_memset                           1-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-        :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	     :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uà	>         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                            !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856266  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-	ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-trpbrk.c _strpbrk                         5-strstr.o/     1538856258  1000  1000  100664  1400      `ELFtrspn.c _strspn                           4-isalpha.o/    1538856258  1000  1000  100664  1280      `ELF        3-strcmp.c _strcmp                           3-strspn.o/     1538856258  1000  1000  100664  1368      `ELFtrncpy.c _strncpy                         3-islower.o/    1538856258  1000  1000  100664  1264      `ELFtrchr.c _strchr                           2-strlen.o/     1538856257  1000  1000  100664  1280      `ELFtrncat.c _strncat                         2-strchr.o/     1538856257  1000  1000  100664  1320      `ELF        1-memcpy.c _memcpy                           1-strncat.o/    1538856257  1000  1000  100664  1376      `ELFsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uàsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-trstr.c _strstr                           6-abs.o/        1538856258  1000  1000  100664  1248      `ELFtrpbrk.c _strpbrk                         5-strstr.o/     1538856258  1000  1000  100664  1400      `ELFtrspn.c _strspn                           4-isalpha.o/    1538856258  1000  1000  100664  1280      `ELF        3-strcmp.c _strcmp                           3-strspn.o/     1538856258  1000  1000  100664  1368      `ELFtrncpy.c _strncpy                         3-islower.o/    1538856258  1000  1000  100664  1264      `ELFtrchr.c _strchr                           2-strlen.o/     1538856257  1000  1000  100664  1280      `ELFtrncat.c _strncat                         2-strchr.o/     1538856257  1000  1000  100664  1320      `ELF        1-memcpy.c _memcpy                           1-strncat.o/    1538856257  1000  1000  100664  1376      `ELFsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uàsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uà\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        6                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uà\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        6                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss        9-strcpy.c _strcpy                           _putchar.o/     1538856258  1000  1000  100664  1400      `ELFtrstr.c _strstr                           6-abs.o/        1538856258  1000  1000  100664  1248      `ELFtrpbrk.c _strpbrk                         5-strstr.o/     1538856258  1000  1000  100664  1400      `ELFtrspn.c _strspn                           4-isalpha.o/    1538856258  1000  1000  100664  1280      `ELF        3-strcmp.c _strcmp                           3-strspn.o/     1538856258  1000  1000  100664  1368      `ELFtrncpy.c _strncpy                         3-islower.o/    1538856258  1000  1000  100664  1264      `ELFtrchr.c _strchr                           2-strlen.o/     1538856257  1000  1000  100664  1280      `ELFtrncat.c _strncat                         2-strchr.o/     1538856257  1000  1000  100664  1320      `ELF        1-memcpy.c _memcpy                           1-strncat.o/    1538856257  1000  1000  100664  1376      `ELFsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uàsdigit.c _isdigit                         1-memcpy.o/     1538856257  1000  1000  100664  1296      `ELFtoi.c _atoi                             1-isdigit.o/    1538856257  1000  1000  100664  1264      `ELFtrcat.c _strcat                           100-atoi.o/     1538856257  1000  1000  100664  1360      `ELF_memset                           0-strcat.o/     1538856257  1000  1000  100664  1368      `ELF                                              !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                        !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                  >                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                                                                  !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                ,                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                    0               a       4                                      !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                                               !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                        5                          !<arch>
-/               1538856265  0     0     0       246       `
-	  :  f  
-ª  >         !    A†C
-\    .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .rela.eh_frame                                                                                           @     @ 
- UH‰åH‰}èH‰uà
