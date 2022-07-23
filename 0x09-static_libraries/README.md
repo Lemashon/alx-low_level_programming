@@ -1,6 +1,6 @@
 Creation of a static library with the functions below
 
-int _putchar(char c);
+iint _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
 int _abs(int n);
